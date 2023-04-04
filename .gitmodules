@@ -1,0 +1,3 @@
+[submodule "submodule_workshop"]
+	path = submodule_workshop
+	url = https://github.com/HimanshuLeeway/submodule_workshop.git
